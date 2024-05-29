@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ruban Gleb](https://up.htmlacademy.ru/htmlcss/40/user/2545329).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
