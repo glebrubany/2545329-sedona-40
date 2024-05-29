@@ -2,7 +2,7 @@
 
 * Студент: [Ruban Gleb](https://up.htmlacademy.ru/htmlcss/40/user/2545329).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
-
+* Сайт: [Мой проект Седона] (https://glebrubany.github.io/2545329-sedona-40/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
